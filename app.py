@@ -2,7 +2,7 @@ from rich import print
 from random import randint
 from os import system
 
-
+# TODO: dodać zaciąganie słowek z pliku
 # dwuwymiarowa tablica ze słówkami
 cards = [
     ["accident", "wypadek"],
